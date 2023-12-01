@@ -1,2 +1,1 @@
-# endes_t2_examen
-Mi IDE favorito es: NetBeans
+Mi IDE preferido es NetBeans
